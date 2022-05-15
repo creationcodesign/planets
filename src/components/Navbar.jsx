@@ -1,5 +1,6 @@
 import React, { useState } from 'react'
 import { Link } from 'react-router-dom'
+import '../styles/nav.css';
 
 export default function Navbar() {
     const [navbarToggle, setNavbarToggle] = useState(false)

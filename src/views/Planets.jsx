@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
 import ParticlesSky from '../components/ParticlesSky'
 import planetsData from '../assets/data/planets'
-
+import '../styles/planets.css'
 
 export default function Planets() {
     const [planets] = useState(planetsData)

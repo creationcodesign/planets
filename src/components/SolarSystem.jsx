@@ -1,4 +1,5 @@
 import React from 'react'
+import '../styles/solar-system.css'
 
 export default function SolarSystem() {
     return (
