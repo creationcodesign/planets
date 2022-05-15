@@ -1,9 +1,11 @@
-import React from 'react'
+import SolarSystem from '../components/SolarSystem'
+import Planets from './Planets'
 
 export default function Home() {
     return (
         <div>
-            welcome
+            <SolarSystem />
+            <Planets />
         </div>
     )
 }
