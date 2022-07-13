@@ -39,6 +39,14 @@ a:hover {
   color: #eff6f77c;
 }
 
+.txt-vertical {
+  writing-mode: vertical-lr;
+  transform: rotate(180deg);
+  letter-spacing: 0.1em;
+  word-spacing: 0.5em;
+  color: #a7b7b8;
+}
+
 /* HEADER */
 header {
   width: 98vw;
