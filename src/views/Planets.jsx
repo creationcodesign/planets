@@ -3,6 +3,7 @@ import ParticlesSky from '../components/ParticlesSky'
 import planetsData from '../assets/data/planets'
 import '../styles/planets.css'
 
+
 export default function Planets() {
     const [planets] = useState(planetsData)
     const [planetId, setPlanetId] = useState('')
@@ -58,8 +59,8 @@ export default function Planets() {
 
     return (
         <div className='planets' id='planet'>
-            <h2 className='txt-vertical'>planets</h2>
             <ParticlesSky />
+            <h2 className='txt-vertical'>planets</h2>
             <div className="planets-container">
                 {planetsImg}
             </div>

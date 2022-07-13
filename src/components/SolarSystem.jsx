@@ -36,7 +36,7 @@ export default function SolarSystem() {
                     <div id="pluto"></div>
                 </div>
             </div>
-        </div >
+        </div>
     )
 }
 
