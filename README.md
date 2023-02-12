@@ -1,6 +1,9 @@
-# React SPA
+# Planets 
 
-This project was built with **React.js, Particles and CSS animation** [check it out here](https://versi-on.github.io/planets/).
+This simple web app was built with React JS, using particles and CSS animation.
+
+
+## [Live demo](https://versi-on.github.io/planets/)
 
 ## Preview of all planets
 
