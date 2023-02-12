@@ -1,6 +1,5 @@
-/* PLANETS  */
+/* ALL PLANETS  */
 .planets {
-    /* display: flex; */
     position: relative;
 }
 
@@ -36,7 +35,7 @@
     transform: scale(1.1, 1.1);
 }
 
-/* PLANET VIEW */
+/* VIEW OF ONE PLANET  */
 .planet-view {
     width: 99vw;
     height: 100vh;
