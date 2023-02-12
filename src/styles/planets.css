@@ -1,7 +1,7 @@
 /* PLANETS  */
 .planets {
+    /* display: flex; */
     position: relative;
-    /* z-index: 10; */
 }
 
 .planets h2 {
@@ -90,10 +90,4 @@
 
 .close-btn:hover {
     color: #daf6f8a4;
-}
-
-
-.planets-particles-container {
-    border: 5px solid green;
-    z-index: -1;
 }

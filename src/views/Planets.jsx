@@ -59,8 +59,8 @@ export default function Planets() {
 
     return (
         <div className='planets' id='planet'>
-            <ParticlesSky />
             <h2 className='txt-vertical'>planets</h2>
+            <ParticlesSky />
             <div className="planets-container">
                 {planetsImg}
             </div>
