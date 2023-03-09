@@ -12,7 +12,7 @@ export default function Navbar() {
                 <Link to="/" className="menu menu-icon" onClick={() => { setNavbarToggle((navbarToggle) => !navbarToggle) }}><span></span></Link>
             </div>
             {navbarToggle ?
-                <div onMouseLeave={() => { setNavbarToggle(false) }} className='menu-hidden'>
+                <div className='menu-hidden'>
                     <Link to="/" className="nav-link">home</Link>
                     <Link to="/#planet" className="link">planets</Link>
                     <Link to="/space" className="link">space</Link>

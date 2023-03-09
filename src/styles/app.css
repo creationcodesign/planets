@@ -39,6 +39,10 @@ a:hover {
   color: #eff6f77c;
 }
 
+.info-container a {
+  margin: 1rem 0;
+}
+
 .txt-vertical {
   writing-mode: vertical-lr;
   transform: rotate(180deg);
