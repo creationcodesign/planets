@@ -3,7 +3,7 @@
 This simple web app was built with React JS, using particles and CSS animation.
 
 
-## [Live demo](https://versi-on.github.io/planets/)
+## [Live demo](https://creationcodesign.github.io/planets/)
 
 ## Preview of all planets
 
